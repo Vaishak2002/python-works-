@@ -1,0 +1,7 @@
+write a python code to prnt hello world
+
+xav is one of a kind name for a person
+
+bgmi is one of the most popular mobile games today 
+
+write a python file program to print the count of words in it 

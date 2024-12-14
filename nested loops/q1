@@ -1,0 +1,6 @@
+
+print("very" ,end="$$")
+
+print("good", end=" \t")
+
+print("pulla" )
